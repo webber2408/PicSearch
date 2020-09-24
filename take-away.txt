@@ -1,0 +1,9 @@
+Event Handlers (onSubmit, onChange)
+How this affects in function declarations and how it goes away in arrow functions
+Use of e.preventDefault()
+Passing callbacks into the child components
+Rendering HTML Content using JS Maps
+Use of key in dynamic rendering and how we can destructure it from the map item
+Introduction to React Refs.
+Intro to Axios API calls
+Intro to GRID CSS
