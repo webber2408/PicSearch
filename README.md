@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PicSearch
+Project based on React.JS to fetch images based on the searched keyword using UnsplashAPI.
 
 ## Available Scripts
 
