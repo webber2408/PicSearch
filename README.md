@@ -1,6 +1,12 @@
 # PicSearch
 Project based on React.JS to fetch images based on the searched keyword using UnsplashAPI.
 
+## Project Screenshots
+
+![alt text](https://i.ibb.co/7SY2bps/Screenshot-from-2020-09-24-14-53-27.png)
+![alt text](https://i.ibb.co/vVVgq6V/Screenshot-from-2020-09-24-14-53-14.png)
+
+
 ## How to run the project?
 
 In the project directory, you can run:
